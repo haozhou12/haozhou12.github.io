@@ -11,7 +11,7 @@ redirect_from:
 
 # Hao Zhou
 
-**Position:** Lecturer (Associate Professor by University Appointment)  
+**Position:** Associate Professor 
 **Department:** Institute of Computer Science  
 **Email:** haozhou@njupt.edu.cn  
 **Research Interests:** AI Security, Privacy Protection, Federated Learning
