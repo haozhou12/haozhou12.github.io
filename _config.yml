@@ -7,40 +7,25 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title: "Hao Zhou"
+name: &name "Hao Zhou"
+description: &description "AI Security, Privacy Protection, Federated Learning"
+url: https://haozhou12.github.io  # 你自己主页的实际GitHub Pages地址
+baseurl: ""  # 空即可
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  avatar: "profile.png"  # 头像文件名，你可以放在 images 目录里
+  name: "Hao Zhou"
+  bio: "Associate Professor by University Appointment at School of Computer Science, NUPT"
+  location: "Nanjing, China"
+  employer: "Nanjing University of Posts and Telecommunications"
+  email: "haozhou@njupt.edu.cn"
+  googlescholar: "https://scholar.google.com/citations?user=797U1xQAAAAJ"  # 你可以填上自己的Google Scholar ID
+  orcid: "http://orcid.org/0000-0002-9040-8100"  # 如果有的话
+  github: "haozhou12"  # 你的GitHub用户名
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
