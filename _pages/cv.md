@@ -26,11 +26,11 @@ He has published 5 first-author papers in top-tier international journals and co
 
 ## Publications
 
-1. **Hao Zhou**, Hua Dai, Geng Yang, Yang Xiang, "Robust Federated Learning for Privacy Preservation and Efficiency in Edge Computing," IEEE Transactions on Services Computing, DOI: 10.1109/TSC.2025.3562359. (CCF-A Journal)
-2. **Hao Zhou**, Geng Yang, Yuxian Huang, Hua Dai, Yang Xiang, "Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2023, 18: 565-580. (CCF-A Journal)
-3. **Hao Zhou**, Geng Yang, Hua Dai, Guoxiu Liu, "PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2022, 17: 1905-1918. (CCF-A Journal)
-4. **Hao Zhou**, Geng Yang, Yang Xiang, Yunlu Bai, Weiya Wang, "A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data," IEEE Transactions on Big Data, 2021, 9(1): 160-173. (SCI Q1)
-5. **Hao Zhou**, Geng Yang, Yahong Xu, Weiya Wang, "Effective Matrix Factorization for Recommendation with Local Differential Privacy," Science of Cyber Security, Nanjing, China, 2019. (International Conference, EI Indexed)
+1. **Hao Zhou**, Hua Dai, Geng Yang, Yang Xiang, "Robust Federated Learning for Privacy Preservation and Efficiency in Edge Computing," IEEE Transactions on Services Computing, DOI: 10.1109/TSC.2025.3562359. 
+2. **Hao Zhou**, Geng Yang, Yuxian Huang, Hua Dai, Yang Xiang, "Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2023, 18: 565-580. 
+3. **Hao Zhou**, Geng Yang, Hua Dai, Guoxiu Liu, "PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2022, 17: 1905-1918.
+4. **Hao Zhou**, Geng Yang, Yang Xiang, Yunlu Bai, Weiya Wang, "A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data," IEEE Transactions on Big Data, 2021, 9(1): 160-173. 
+5. **Hao Zhou**, Geng Yang, Yahong Xu, Weiya Wang, "Effective Matrix Factorization for Recommendation with Local Differential Privacy," Science of Cyber Security, Nanjing, China, 2019. 
 
 ## Research Projects
 
