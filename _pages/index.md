@@ -19,6 +19,7 @@ Prospective students in **Cyberspace Security** and **Computer Technology** are 
 
 ## News
 
+- **2026**: Received the Excellent Doctoral Dissertation Award from Jiangsu Computer Society.
 - **2026**: Paper accepted as a regular paper at ICML 2026: *Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks*.
 - **2026**: Paper accepted by IEEE Transactions on Services Computing: *Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge*.
 - **2026**: Paper accepted by IEEE Transactions on Dependable and Secure Computing: *Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration*.
@@ -33,7 +34,7 @@ I received my Ph.D. in Information Security from Nanjing University of Posts and
 ## Awards
 
 - Jiangsu Young Science and Technology Talent Support Program, 2025.
-- Excellent Doctoral Dissertation of Jiangsu Computer Society.
+- Excellent Doctoral Dissertation Award, Jiangsu Computer Society, 2026.
 - Outstanding Doctoral Graduate of Jiangsu Province, 2024.
 - National Scholarship for Doctoral Students.
 - National Scholarship for Overseas Study.

@@ -45,7 +45,7 @@ His research focuses on AI security, privacy-preserving machine learning, federa
 ## Honors
 
 - Jiangsu Young Science and Technology Talent Support Program, 2025.
-- Excellent Doctoral Dissertation of Jiangsu Computer Society.
+- Excellent Doctoral Dissertation Award, Jiangsu Computer Society, 2026.
 - Outstanding Doctoral Graduate of Jiangsu Province, 2024.
 - National Scholarship for Doctoral Students.
 - National Scholarship for Overseas Study.
