@@ -7,43 +7,55 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Hao Zhou
 
-**Position:** Associate Professor  
-**Department:** Institute of Computer Science  
-**Email:** haozhou@njupt.edu.cn  
-**Research Interests:** AI Security, Privacy Protection, Federated Learning
+**Position:** Lecturer and Master's Supervisor  
+**Affiliation:** School of Computer Science, Nanjing University of Posts and Telecommunications  
+**Email:** haozhou AT njupt.edu.cn  
+**Research Interests:** AI Security, Privacy-Preserving Machine Learning, Federated Learning, Differential Privacy, Verifiable Federated Learning
 
 ## Biography
 
-Hao Zhou received his Ph.D. degree in Information Security from Nanjing University of Posts and Telecommunications (NUPT) in 2024, under the supervision of Prof. Geng Yang. During his doctoral study, he was awarded the "National Scholarship for Overseas Study" and visited Swinburne University of Technology in Australia for one year, under the supervision of Prof. Yang Xiang. After graduation, he joined NUPT as a faculty member.
+Hao Zhou is a Lecturer and Master's Supervisor at the School of Computer Science, Nanjing University of Posts and Telecommunications. He received his Ph.D. in Information Security from Nanjing University of Posts and Telecommunications in 2024.
 
-He is currently a member of the Big Data Security and Privacy Computing Committee of the Chinese Information Processing Society of China (CIPSC) and a member of the Information Security Committee of Jiangsu Computer Society.
+His research focuses on AI security, privacy-preserving machine learning, federated learning, differential privacy, and verifiable federated learning. He studies secure, private, and trustworthy learning systems for edge computing and large-model collaboration scenarios.
 
-He has published 5 first-author papers in top-tier international journals and conferences, including 4 IEEE Transactions papers and 3 CCF-A papers. He has received several honors such as the National Scholarship for Doctoral Students, the National Scholarship for Overseas Study, and the Jiangsu Province Excellent Graduate Award.
+## Education
 
-## Publications
+- Ph.D. in Information Security, Nanjing University of Posts and Telecommunications, 2024.
 
-1. **Hao Zhou**, Hua Dai, Geng Yang, Yang Xiang, "Robust Federated Learning for Privacy Preservation and Efficiency in Edge Computing," IEEE Transactions on Services Computing, DOI: 10.1109/TSC.2025.3562359. 
-2. **Hao Zhou**, Geng Yang, Yuxian Huang, Hua Dai, Yang Xiang, "Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2023, 18: 565-580. 
-3. **Hao Zhou**, Geng Yang, Hua Dai, Guoxiu Liu, "PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing," IEEE Transactions on Information Forensics and Security, 2022, 17: 1905-1918.
-4. **Hao Zhou**, Geng Yang, Yang Xiang, Yunlu Bai, Weiya Wang, "A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data," IEEE Transactions on Big Data, 2021, 9(1): 160-173. 
-5. **Hao Zhou**, Geng Yang, Yahong Xu, Weiya Wang, "Effective Matrix Factorization for Recommendation with Local Differential Privacy," Science of Cyber Security, Nanjing, China, 2019. 
+## Selected Publications
 
-## Research Projects
+1. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge. IEEE Transactions on Services Computing, 2026. DOI: 10.1109/TSC.2026.3686112.
+2. **Hao Zhou**, et al. Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration. IEEE Transactions on Dependable and Secure Computing, 2026. DOI: 10.1109/TDSC.2026.3651107.
+3. **Hao Zhou**, et al. Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning. ACM CCS, 2025.
+4. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
+5. **Hao Zhou**, et al. PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
+6. **Hao Zhou**, et al. A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data. IEEE Transactions on Big Data.
 
-1. **Principal Investigator**, "Research on Verifiable Federated Learning Methods for Multimodal Data in Edge Computing," Startup Research Project of NUPT, Project No.: NY224058, Duration: 2024.12.01-2027.12.01.
-2. **Principal Investigator**, "Research and Application of Data Security Sharing and Privacy Scheduling Technologies for New Energy Entities in Smart Distribution Networks," Commissioned by State Grid Suqian Power Company, Project No.: 2025W052, Duration: 2025.01.01-2026.01.01.
-3. **Principal Investigator**, "Research on Privacy-Preserving Federated Learning Methods for Multimodal Data," Commissioned by State Grid Taizhou Power Company, Project No.: 2025W051, Duration: 2025.01.01-2025.07.01.
-4. **Principal Investigator**, "Research on Key Technologies of Privacy-Preserving Federated Learning Based on Differential Privacy," Postgraduate Research and Innovation Program of Jiangsu Education Department, Project No.: KYCX210789, Duration: 2021.09.01-2024.06.30. (Completed)
+## Selected Projects
 
-## Patents
+- Research on Key Methods of Differential Privacy Protection in Dynamic Edge Federated Learning, Natural Science Foundation Youth Program of Jiangsu Province.
+- Adaptive Privacy-Preserving Mechanisms for Federated Learning on Heterogeneous Edge Devices, Natural Science Research Project of Jiangsu Higher Education Institutions.
+- Theory and Methods of Differentially Private Federated Learning for Heterogeneous Distributions and Multimodal Data, Jiangsu Young Science and Technology Talent Support Program.
+- Differential Privacy Mechanisms and Optimization for Federated Learning in Dynamic Edge Environments, Open Project of the State Key Laboratory for Novel Software Technology, Nanjing University.
+- Multimodal Verifiable Federated Learning for Edge Computing, Natural Science Foundation Project of Nanjing University of Posts and Telecommunications.
 
-1. Hua Dai, Yiming Xie, **Hao Zhou**, Pengyue Li, Yanli Chen, Geng Yang, "A Table Combination Query Method for Maximizing Difference Degree for Correlated Datasets," China, Patent No.: 2025102024738, 2025.
-2. Hua Dai, Zhengkai Zhang, Xinyu Zhang, **Hao Zhou**, Pengyue Li, Mingfeng Jiang, Geng Yang, "A Privacy-Preserving Join Query Method for Spatial Datasets Based on Samples," China, Patent No.: 2025102024742, 2025.
-3. Yichen Wang, Hua Dai, Shuyan Wan, Xinyu Zhang, Yan Wang, **Hao Zhou**, Geng Yang, "A Privacy-Preserving Contact Trajectory Mining Method Based on Grid Encoding," China, Patent No.: 2025100892492, 2025.
-4. Hua Dai, Junjie Chen, Zhousheng Wang, **Hao Zhou**, Jiahe Shen, Hui Li, Geng Yang, "An Efficient Client Selection Privacy-Preserving Federated Learning Method for Data Heterogeneity," China, Patent No.: 2024119459696, 2024.
+## Honors
 
----
+- Jiangsu Young Science and Technology Talent Support Program, 2025.
+- Excellent Doctoral Dissertation of Jiangsu Computer Society.
+- Outstanding Doctoral Graduate of Jiangsu Province, 2024.
+- National Scholarship for Doctoral Students.
+- National Scholarship for Overseas Study.
+
+## Service
+
+- Reviewer for IEEE Transactions on Information Forensics and Security.
+- Reviewer for IEEE Transactions on Communications.
+- Reviewer for IEEE Transactions on Dependable and Secure Computing.
+- Council Member, Jiangsu Cryptography Society.
+- Member, Big Data Security and Privacy Computing Committee, Chinese Information Processing Society of China.
+- Member, Artificial Intelligence and Security Committee, Chinese Association for Artificial Intelligence.
+- Member, Information Security Committee, Jiangsu Computer Society.
+- Member, Artificial Intelligence Security Committee, Jiangsu Cyberspace Security Society.

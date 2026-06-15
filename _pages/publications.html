@@ -5,32 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>You can also find my publications on <a href="https://scholar.google.com/citations?user=797U1xQAAAAJ&amp;hl=zh-CN">Google Scholar</a> and <a href="https://orcid.org/0000-0002-9040-8100">ORCID</a>.</p>
 
-{% include base_path %}
+<h2>Selected Publications</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol>
+  <li><strong>Hao Zhou</strong>, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge. <em>IEEE Transactions on Services Computing</em>, 2026. DOI: 10.1109/TSC.2026.3686112.</li>
+  <li><strong>Hao Zhou</strong>, et al. Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration. <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026. DOI: 10.1109/TDSC.2026.3651107.</li>
+  <li><strong>Hao Zhou</strong>, et al. Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning. <em>ACM CCS</em>, 2025.</li>
+  <li><strong>Hao Zhou</strong>, et al. 基于生物特征识别的隐私保护可验证联邦学习框架. <em>计算机学报</em>.</li>
+  <li><strong>Hao Zhou</strong>, et al. Robust Federated Learning for Privacy Preservation and Efficiency in Edge Computing. <em>IEEE Transactions on Services Computing</em>.</li>
+  <li><strong>Hao Zhou</strong>, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing. <em>IEEE Transactions on Information Forensics and Security</em>.</li>
+  <li><strong>Hao Zhou</strong>, et al. PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing. <em>IEEE Transactions on Information Forensics and Security</em>.</li>
+  <li><strong>Hao Zhou</strong>, et al. A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data. <em>IEEE Transactions on Big Data</em>.</li>
+  <li><strong>Hao Zhou</strong>, et al. Effective Matrix Factorization for Recommendation with Local Differential Privacy. <em>Science of Cyber Security</em>, 2019.</li>
+</ol>
 
-
-
+<p>A complete and up-to-date publication list is maintained on Google Scholar.</p>
