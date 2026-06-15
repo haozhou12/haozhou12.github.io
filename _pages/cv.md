@@ -26,12 +26,13 @@ His research focuses on AI security, privacy-preserving machine learning, federa
 
 ## Selected Publications
 
-1. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge. IEEE Transactions on Services Computing, 2026. DOI: 10.1109/TSC.2026.3686112.
-2. **Hao Zhou**, et al. Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration. IEEE Transactions on Dependable and Secure Computing, 2026. DOI: 10.1109/TDSC.2026.3651107.
-3. **Hao Zhou**, et al. Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning. ACM CCS, 2025.
-4. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
-5. **Hao Zhou**, et al. PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
-6. **Hao Zhou**, et al. A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data. IEEE Transactions on Big Data.
+1. **Hao Zhou**, et al. Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks. International Conference on Machine Learning (ICML), 2026. Accepted as a regular paper. [OpenReview](https://openreview.net/forum?id=BDR6RK9TmA)
+2. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge. IEEE Transactions on Services Computing, 2026. DOI: 10.1109/TSC.2026.3686112.
+3. **Hao Zhou**, et al. Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration. IEEE Transactions on Dependable and Secure Computing, 2026. DOI: 10.1109/TDSC.2026.3651107.
+4. **Hao Zhou**, et al. Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning. ACM CCS, 2025.
+5. **Hao Zhou**, et al. Privacy-Preserving and Verifiable Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
+6. **Hao Zhou**, et al. PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing. IEEE Transactions on Information Forensics and Security.
+7. **Hao Zhou**, et al. A Lightweight Matrix Factorization for Recommendation with Local Differential Privacy in Big Data. IEEE Transactions on Big Data.
 
 ## Selected Projects
 

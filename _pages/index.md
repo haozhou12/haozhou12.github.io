@@ -19,6 +19,7 @@ Prospective students in **Cyberspace Security** and **Computer Technology** are 
 
 ## News
 
+- **2026**: Paper accepted as a regular paper at ICML 2026: *Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks*.
 - **2026**: Paper accepted by IEEE Transactions on Services Computing: *Privacy-Preserving and Verifiable Federated Learning Framework for Biometric Authentication at the Edge*.
 - **2026**: Paper accepted by IEEE Transactions on Dependable and Secure Computing: *Robust Privacy-Preserving Federated Learning for Edge Computing with New Client Integration*.
 - **2025**: Poster accepted by ACM CCS: *Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning*.
