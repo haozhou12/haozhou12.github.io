@@ -1,0 +1,39 @@
+/* Site-specific layout fixes. */
+
+@media screen and (min-width: 1024px) {
+  #main {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .sidebar {
+    width: 220px;
+  }
+
+  .page--home {
+    float: none;
+    width: auto;
+    max-width: 760px;
+    margin-left: 300px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .page--home .page__inner-wrap {
+    max-width: 760px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .page--home {
+    margin-left: 320px;
+  }
+}
+
+.author__avatar img {
+  object-fit: cover;
+  object-position: center top;
+}
